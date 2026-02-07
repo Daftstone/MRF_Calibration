@@ -1,6 +1,6 @@
 # Beyond Raw Detection Scores: Markov-Aware Calibration for Boosting Machine-Generated Text Detection
 
-This is the source code for the paper "[Beyond Raw Detection Scores: Markov-Aware Calibration for Boosting Machine-Generated Text Detection](https://openreview.net/forum?id=Lzwkeg2o2z&referrer=%5BAuthor+Console%5D%28%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions%29)".
+This is the source code for the paper "[Beyond Raw Detection Scores: Markov-Aware Calibration for Boosting Machine-Generated Text Detection](https://openreview.net/forum?id=Lzwkeg2o2z&referrer=%5BAuthor+Console%5D%28%2Fgroup%3Fid%3DICLR.cc%2F2026%2FConference%2FAuthors%23your-submissions%29)" (ICLR 2026).
 
 <img src="img.png" width="60%" />
 <img src="img_1.png" width="60%" />
